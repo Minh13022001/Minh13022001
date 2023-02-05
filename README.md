@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Minh13022001
-- 👀 I’m interested in RL, DS
+- 👀 I’m interested in Web-developement
 - 🌱 I’m currently learning something
 - 💞️ I’m looking to collaborate on any related field
 - 📫 How to reach me ... 
